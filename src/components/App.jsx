@@ -1,7 +1,11 @@
 import React from 'react'
 
 const App = () => {
-    <h1>Hola mundo</h1>
+  return (
+    <div>
+        <h1>Hola mundo</h1>
+    </div>
+  )
 }
 
-export {App}
+export default App
